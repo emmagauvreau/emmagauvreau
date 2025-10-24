@@ -5,4 +5,4 @@
 💡 Passionate about quantitative research, algorithmic trading & high-performance computing.  
 🧮 Python | MATLAB | HPC | Data Analysis | Optimization  
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/emmagauvreau)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/emmagauvreau/)
